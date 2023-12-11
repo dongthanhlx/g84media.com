@@ -6,5 +6,6 @@
         @include('components.aboutus')
         @include('components.projects')
         @include('components.services')
+        @include('components.team')
     </div>
 @endsection
