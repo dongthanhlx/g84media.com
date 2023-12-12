@@ -5,7 +5,9 @@
     </div>
 
     <div class="flex flex-col items-center gap-3">
-        <img src="https://butvangmedia.com.vn/wp-content/uploads/2022/01/Video-e.jpg" alt="intro">
+        <a href="https://www.youtube.com/shorts/pUMJFUCp6Mg" target="_blank">
+            <img src="{{ asset('storage/aboutus.jpg') }}" alt="intro" class="h-48 md:h-full object-cover hover:shadow rounded">
+        </a>
 
         <p class="text-gray-500 text-xs md:text-sm text-center">"Truyền tải thông điệp hình ảnh cho thương hiệu đến gần hơn với khách hàng là mục tiêu hàng đầu"</p>
     </div>

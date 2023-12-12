@@ -19,9 +19,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">Sản xuất TVC quảng cáo</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Dịch vụ sản xuất TVC quảng cáo lợi ích của phim TVC quảng cáo</p>
                 </div>
             </div>
             <div class="rounded text-center space-y-3 relative h-56 hover:cursor-pointer hover:shadow-xl group">
@@ -34,9 +34,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">Tiểu phẩm quảng cáo</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Dịch vụ sản xuất tiểu phẩm quảng cáo</p>
                 </div>
             </div>
             <div class="rounded text-center space-y-3 relative h-56 hover:cursor-pointer hover:shadow-xl group">
@@ -49,9 +49,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">Xây kênh tiktok</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Dịch vụ xây kênh, video tiktok</p>
                 </div>
             </div>
             <div class="rounded text-center space-y-3 relative h-56 hover:cursor-pointer hover:shadow-xl group">
@@ -64,9 +64,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">KOC/KOLS review sản phẩm</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Cung cấp dịch vụ review sản phẩm</p>
                 </div>
             </div>
             <div class="rounded text-center space-y-3 relative h-56 hover:cursor-pointer hover:shadow-xl group">
@@ -79,9 +79,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">Clip Viral</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Cung cấp dịch vụ sản xuất phim viral video</p>
                 </div>
             </div>
             <div class="rounded text-center space-y-3 relative h-56 hover:cursor-pointer hover:shadow-xl group">
@@ -94,9 +94,9 @@
                         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-movie" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 4l0 16" /><path d="M16 4l0 16" /><path d="M4 8l4 0" /><path d="M4 16l4 0" /><path d="M4 12l16 0" /><path d="M16 8l4 0" /><path d="M16 16l4 0" /></svg>
                     </div>
 
-                    <h4 class="uppercase text-2xl text-white">Phim 3D dự án BĐS</h4>
+                    <h4 class="uppercase text-2xl text-white">Dịch vụ hậu kỳ video</h4>
 
-                    <p class="text-gray-100 text-sm px-5">DỊCH VỤ LÀM PHIM 3D PHỐI CẢNH BẤT ĐỘNG SẢN Phim 3D phối cảnh mang</p>
+                    <p class="text-gray-100 text-sm px-5 uppercase">Cung cấp dịch vụ biên tập hậu kỳ video</p>
                 </div>
             </div>
         </div>
