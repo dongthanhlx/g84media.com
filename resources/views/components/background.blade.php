@@ -1,7 +1,7 @@
 <div class="relative">
     <img src="{{ asset('storage/bg.jpg') }}" alt="thumbnail" class="h-screen w-full object-cover">
 
-    <div class="absolute -mb-72 bottom-1/2 w-full text-center space-y-3 md:space-y-5 p-5 md:p-10">
+    <div class="absolute -mb-56 bottom-1/2 w-full text-center space-y-3 md:space-y-5 p-5 md:p-10">
         <h3 class="text-5xl text-gray-100 uppercase font-bold">G84 <span class="text-blue-500">Media</span></h3>
         <h2 class="text-3xl italic md:text-6xl text-white uppercase">Film Production House</h2>
         <div class="pt-6">
