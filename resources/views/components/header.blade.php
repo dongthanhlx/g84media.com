@@ -1,6 +1,6 @@
 <div class="w-full h-40 absolute top-0 z-40">
     <div class="max-w-screen-xl mx-auto flex flex-wrap items-center justify-between p-5">
-        <img src="{{ asset('storage/g84-logo.png') }}" alt="logo" class="w-28 h-fit">
+        <img src="{{ asset('storage/g84-logo.png') }}" alt="logo" class="w-28">
 
         <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-100 rounded-lg md:hidden focus:outline-none" aria-controls="navbar-default" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
