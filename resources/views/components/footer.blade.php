@@ -1,5 +1,5 @@
 <div class="relative">
-    <img src="https://butvangmedia.com.vn/wp-content/uploads/2022/01/4-E.jpg" alt="thumbnail" class="w-full object-cover h-[47rem] md:h-[26rem]">
+    <img src="https://butvangmedia.com.vn/wp-content/uploads/2022/01/4-E.jpg" alt="thumbnail" class="w-full object-cover h-[53rem] md:h-[26rem]">
 
     <div class="absolute top-0 w-full h-full">
         <div class="max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-10 p-10">
@@ -101,7 +101,19 @@
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 15l6 -6" /><path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" /><path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" /></svg>
                             </span>
-                            <a href="/" class="text-sm md:text-base">Địa chỉ: Tầng 5, 131 Ô Chợ Dừa, Đống Đa, Hà Nội</a>
+                            <a href="/" class="text-sm md:text-base">CÔNG TY TNHH G84 ENTERTAINMENT</a>
+                        </li>
+                        <li class="text-gray-200 hover:text-orange-400 flex items-center space-x-1 hover:pl-2 duration-500 font-medium">
+                            <span>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 15l6 -6" /><path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" /><path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" /></svg>
+                            </span>
+                            <a href="/" class="text-sm md:text-base">MST: 0110320852</a>
+                        </li>
+                        <li class="text-gray-200 hover:text-orange-400 flex items-center space-x-1 hover:pl-2 duration-500 font-medium">
+                            <span>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 15l6 -6" /><path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" /><path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" /></svg>
+                            </span>
+                            <a href="/" class="text-sm md:text-base">Địa chỉ: Số 129 Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, TP. Hà Nội</a>
                         </li>
                         <li class="text-gray-200 hover:text-orange-400 flex items-center space-x-1 hover:pl-2 duration-500 font-medium">
                             <span>
